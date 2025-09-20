@@ -108,7 +108,7 @@ Sou um estudante de 16 anos apaixonado por tecnologia, atualmente cursando **Aut
 - Construindo aplicações web com Flask
 - Focando em design responsivo e UX
 
-**2023-2024:** Automação Industrial no SENAI
+**2025-2027:** Automação Industrial no SENAI
 - Estudando sistemas de controle
 - Programação de PLCs
 - Integração de sistemas industriais
