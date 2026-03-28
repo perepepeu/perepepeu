@@ -63,11 +63,10 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perepepeu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perepepeu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perepepeu&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perepepeu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perepepeu&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
