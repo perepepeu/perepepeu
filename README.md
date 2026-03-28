@@ -1,133 +1,77 @@
-# 👋 Olá, eu sou Pedro Henrique R.C de Barros!
+<h1 align="center">Pedro Henrique R.C de Barros</h1>
+<h3 align="center">AI Researcher & Software Developer</h3>
 
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor e pesquisador em Inteligência Artificial com 17 anos, apaixonado por tecnologia e inovação. Atualmente, estou cursando **Automação Industrial no SENAI** em Salvador, Bahia, e trabalhando em um **modelo de linguagem próprio**. Sou autodidata em ciência da computação e desenvolvimento de software, sempre em busca de novos desafios e oportunidades para aprender e crescer.
-
-## 🎉 Minha Jornada
-
-- 🔍 **Trabalhando em:** Modelo de Linguagem Próprio (LLM customizado)
-- 👨‍🎓 **Estudando:** Automação Industrial no SENAI Bahia
-- 🌱 **Aprendendo:** Inteligência Artificial, Machine Learning, Deep Learning e Desenvolvimento Web
-- 🚫 **Paixão:** Resolver problemas através de código, automação e IA
-- 🎯 **Objetivo:** Conectar o mundo físico com o digital através da tecnologia
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrorcdebarros/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pedrohenriquerios00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://ganim.site"><img src="https://img.shields.io/badge/Website-ganim.site-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=perepepeu&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## About Me
 
-### 💻 Linguagens de Programação
+I'm a 17-year-old self-taught **AI researcher and software developer** from Salvador, Bahia, Brazil. I build things from scratch — custom neural network libraries, language models, interpreters, and web applications. Currently studying **Industrial Automation at SENAI** while developing my own language model and exploring the boundaries of deep learning.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 🔧 Frameworks & Tecnologias
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 Áreas de Interesse
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLM](https://img.shields.io/badge/Large_Language_Models-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/Industrial_Automation-FF6B35?style=for-the-badge&logo=arduino&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+- Building **DiffuGPT** — a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
+- Author of **Ganim** — a minimalist neural network library built from scratch in Python
+- Working on **LiberOS** — a custom operating system written in C
+- Interested in: LLMs, low-level systems, compilers, and industrial automation
 
 ---
 
-## 🌟 Projetos em Destaque
+## Tech Stack
 
-### 🔮 Modelo de Linguagem Próprio
-**Status:** Em desenvolvimento
-- Modelo de linguagem customizado treinado com datasets em português
-- Foco em compreensão e geração de texto em língua portuguesa
-- Utiliza arquiteturas modernas de deep learning
+**Languages**
 
-### 🔗 Encurtador de URL
-- URL shortener construído com Flask e Python
-- Interface web funcional e intuitiva
-- Projeto prático para explorar conceitos de programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🏢 SmartBusiness
-- Template de site empresarial usando HTML e CSS
-- Design responsivo e profissional
-- Adequado para pequenos projetos e aprendizado de fundamentos web
+**AI / ML**
 
-### 🧠 Facilitation Lang
-- Interpretador de linguagem de brinquedo escrito em Python
-- Ferramenta educacional para entender compiladores e parsing
-- Explora conceitos básicos de implementação de linguagens
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🧬 Ganim
-- Biblioteca Python minimalista para construir redes neurais do zero
-- Foco na clareza educacional e facilidade de uso
-- Ferramenta para aprender conceitos de Machine Learning
+**Web & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Estatísticas GitHub
+## Featured Projects
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perepepeu&show_icons=true&theme=dark&count_private=true)](https://github.com/perepepeu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perepepeu&layout=compact&theme=dark)](https://github.com/perepepeu)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perepepeu&theme=dark)](https://github.com/perepepeu)
-
----
-
-## 🏔️ Jornada de Aprendizado
-
-**2024-2025:**
-- Explorando Inteligência Artificial e Machine Learning
-- Desenvolvendo um modelo de linguagem próprio
-- Trabalhando com redes neurais e algoritmos avançados
-- Criando ferramentas educacionais para IA
-
-**2024:**
-- Fundamentos de Desenvolvimento Web
-- Dominando HTML, CSS e JavaScript
-- Construindo aplicações web com Flask
-- Focando em design responsivo
-
-**2025-2027:**
-- Automação Industrial no SENAI
-- Estudando sistemas de controle
-- Programação de PLCs
-- Integração de sistemas industriais
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [**DiffuGPT**](https://github.com/perepepeu/DiffuGPT) | Hybrid text generation model combining discrete diffusion with autoregressive refinement, built from scratch with custom BPE tokenizer | Python, PyTorch | Active |
+| [**Ganim**](https://github.com/perepepeu/Ganim) | Minimalist neural network library built from scratch, focused on educational clarity | Python | Active |
+| [**LiberOS**](https://github.com/perepepeu/LiberOS) | Custom operating system written in C | C | In progress |
+| [**facilitation-lang**](https://github.com/perepepeu/facilitation-lang) | Toy language interpreter exploring parsing and compiler concepts | Python | Complete |
+| [**encurtador**](https://github.com/perepepeu/encurtador) | URL shortener with web interface | Flask, Python | Complete |
+| [**ml-practice**](https://github.com/perepepeu/ml-practice) | Neural networks from scratch using only NumPy | Python | Complete |
 
 ---
 
-## 💭 Filosofia
+## GitHub Stats
 
-**"A tecnologia é melhor quando aproxima as pessoas e resolve problemas reais."**
-
-Acredito que a tecnologia deve ser uma ferramenta para solucionar problemas do mundo real e melhorar a vida das pessoas. Meu objetivo é criar soluções inovadoras que façam a diferença.
-
----
-
-## 📫 Vamos Conversar!
-
-Estou sempre aberto a:
-
-- 🤝 **Colaborações** em projetos interessantes
-- 💬 **Discussões** sobre tecnologia e inovação
-- 🎓 **Aprendizado** compartilhado
-- 🚀 **Oportunidades** de crescimento
-
-**Contato:** [pedrohenriquerios00@gmail.com](mailto:pedrohenriquerios00@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perepepeu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perepepeu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perepepeu&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-**"Construindo o futuro, uma linha de código por vez." 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=perepepeu&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <em>"Building the future, one line of code at a time."</em>
+</p>
