@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm a 17-year-old self-taught **AI researcher and software developer** from Salvador, Bahia, Brazil. I build things from scratch — custom neural network libraries, language models, interpreters, and web applications. Currently studying **Industrial Automation at SENAI** while developing my own language model and exploring the boundaries of deep learning.
+I'm a 17-year-old self-taught **AI researcher and software developer** from Salvador, Bahia, Brazil. I build things from scratch - custom neural network libraries, language models, interpreters, and web applications. Currently studying **Industrial Automation at SENAI** while developing my own language model and exploring the boundaries of deep learning.
 
-- Building **DiffuGPT** — a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
-- Author of **Ganim** — a minimalist neural network library built from scratch in Python
-- Working on **LiberOS** — a custom operating system written in C
+- Building **DiffuGPT** - a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
+- Author of **Ganim** - a minimalist neural network library built from scratch in Python
+- Working on **LiberOS** - a custom operating system written in C
 - Interested in: LLMs, low-level systems, compilers, and industrial automation
 
 ---
@@ -38,7 +38,7 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Web & Tools**
+**Web and Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,8 +63,8 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perepepeu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perepepeu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perepepeu&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perepepeu&theme=tokyonight" height="165" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=perepepeu&theme=tokyonight&hide_border=true" />
