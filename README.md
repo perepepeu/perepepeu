@@ -85,9 +85,3 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=perepepeu&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<p align="center">
-  <em>"Building the future, one line of code at a time."</em>
-</p>
