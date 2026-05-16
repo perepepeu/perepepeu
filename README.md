@@ -17,7 +17,6 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 - 🤖 Building **Eidos** — a personal adaptive AI agent with persistent memory and learning capabilities *(coming soon)*
 - 🧠 Building **DiffuGPT** — a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
 - 📦 Author of **Ganim** — a minimalist neural network library built from scratch in Python
-- 🖥️ Working on **LiberOS** — a custom operating system written in C
 - 🔍 Interested in: LLMs, AI agents, low-level systems, compilers, and industrial automation
 
 ---
@@ -71,7 +70,6 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 | [**Eidos**](#-upcoming-eidos) | Personal adaptive AI agent with persistent memory, dynamic skills, and multi-platform support | Python, LLMs | 🔧 Coming Soon |
 | [**DiffuGPT**](https://github.com/perepepeu/DiffuGPT) | Hybrid text generation model combining discrete diffusion with autoregressive refinement, built from scratch with custom BPE tokenizer | Python, PyTorch | Active |
 | [**Ganim**](https://github.com/perepepeu/Ganim) | Minimalist neural network library built from scratch, focused on educational clarity | Python | Active |
-| [**LiberOS**](https://github.com/perepepeu/LiberOS) | Custom operating system written in C | C | In progress |
 | [**facilitation-lang**](https://github.com/perepepeu/facilitation-lang) | Toy language interpreter exploring parsing and compiler concepts | Python | Complete |
 | [**encurtador**](https://github.com/perepepeu/encurtador) | URL shortener with web interface | Flask, Python | Complete |
 | [**ml-practice**](https://github.com/perepepeu/ml-practice) | Neural networks from scratch using only NumPy | Python | Complete |
