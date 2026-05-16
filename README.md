@@ -12,12 +12,29 @@
 
 ## About Me
 
-I'm a 17-year-old self-taught **AI researcher and software developer** from Salvador, Bahia, Brazil. I build things from scratch - custom neural network libraries, language models, interpreters, and web applications. Currently studying **Industrial Automation at SENAI** while developing my own language model and exploring the boundaries of deep learning.
+I'm a 17-year-old self-taught **AI researcher and software developer** from Salvador, Bahia, Brazil. I build things from scratch — custom neural network libraries, language models, interpreters, and web applications. Currently studying **Industrial Automation at SENAI** while pushing the boundaries of deep learning and AI agent architecture.
 
-- Building **DiffuGPT** - a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
-- Author of **Ganim** - a minimalist neural network library built from scratch in Python
-- Working on **LiberOS** - a custom operating system written in C
-- Interested in: LLMs, low-level systems, compilers, and industrial automation
+- 🤖 Building **Eidos** — a personal adaptive AI agent with persistent memory and learning capabilities *(coming soon)*
+- 🧠 Building **DiffuGPT** — a hybrid diffusion + autoregressive text generation model from scratch in PyTorch
+- 📦 Author of **Ganim** — a minimalist neural network library built from scratch in Python
+- 🖥️ Working on **LiberOS** — a custom operating system written in C
+- 🔍 Interested in: LLMs, AI agents, low-level systems, compilers, and industrial automation
+
+---
+
+## 🚀 Upcoming: Eidos
+
+> *An AI agent that thinks, remembers, and evolves.*
+
+**Eidos** is a personal AI agent project I've been architecting from the ground up. Unlike generic assistants, Eidos is designed to be genuinely adaptive — building a persistent model of the user over time, developing skills on demand, and reasoning across long-horizon contexts.
+
+**Core design goals:**
+- 🧬 **Persistent memory** — long-term user modeling that grows with every interaction
+- 🛠️ **Dynamic skill system** — acquires and chains capabilities on the fly
+- 💬 **Multi-platform** — Discord, Telegram, and beyond
+- 🔒 **Local-first** — privacy-oriented, runs on consumer hardware
+
+**Status:** `🔧 In active development — launch coming soon`
 
 ---
 
@@ -51,6 +68,7 @@ I'm a 17-year-old self-taught **AI researcher and software developer** from Salv
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [**Eidos**](#-upcoming-eidos) | Personal adaptive AI agent with persistent memory, dynamic skills, and multi-platform support | Python, LLMs | 🔧 Coming Soon |
 | [**DiffuGPT**](https://github.com/perepepeu/DiffuGPT) | Hybrid text generation model combining discrete diffusion with autoregressive refinement, built from scratch with custom BPE tokenizer | Python, PyTorch | Active |
 | [**Ganim**](https://github.com/perepepeu/Ganim) | Minimalist neural network library built from scratch, focused on educational clarity | Python | Active |
 | [**LiberOS**](https://github.com/perepepeu/LiberOS) | Custom operating system written in C | C | In progress |
